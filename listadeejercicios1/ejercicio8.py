@@ -1,5 +1,5 @@
 # Almacenar la contraseña en una variable
-contraseña = "MiContraseña123"
+contraseña = "73450209"
 
 # Preguntar al usuario por la contraseña
 contraseña_usuario = input("Introduce la contraseña: ")
